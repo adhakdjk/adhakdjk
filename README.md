@@ -1,7 +1,7 @@
 - 👋 Hi, I’m a student in NEU.
 - 👀 I’m interested in Natural Language Process.
 - 🌱 I’m currently learning Mybatis,MySQL and paddle.
-- 💞️ I’m looking to collaborate on NLU.
+- 💞️ I’m looking to collaborate on dialogue generation.
 - 📫 How to reach me : 
 - 📧 202119021@stu.neu.edu.cn
 
